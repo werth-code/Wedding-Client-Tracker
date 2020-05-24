@@ -1,3 +1,5 @@
+// reformat and organize!
+
 const albums = 
 {
     linen: {
