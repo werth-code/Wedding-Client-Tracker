@@ -1,3 +1,2 @@
-# inventoryProject
-A simple program for adding and removing inventory.
-w
+# Wedding Client Tracking App
+JS, HTML, CSS, MongoDB. 
